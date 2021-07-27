@@ -1,9 +1,9 @@
-# Problem Solving
+# Problem Solving #
 
 Each problem statement is categorized into respective sub-domains. Each directory contains Problem statement and a Solution. The solution was solved either using C, C++, Java or Python. 
 I have mentioned the problem title presented in each directory here.
 
-## Warmups
+## Warmups ##
 - Simple Array Sum
 - Birthday Cake Candles
 - Compare Triplets
@@ -15,4 +15,4 @@ I have mentioned the problem title presented in each directory here.
 - Time Conversion
 - Very Big Sum
 
-## Implementation
+## Implementation ##
