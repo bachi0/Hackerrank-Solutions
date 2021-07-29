@@ -22,4 +22,57 @@ These solutions are purely done by me and not copied from internet. I Hope these
 
 ## Implementation ##
 
-
+    * ACM and ICPC Team
+    * Angry Professor
+    * Apple and Orange
+    * Beautiful Days at the movies
+    * Beautiful Triplets
+    * Between Two Sets
+    * Bigger is Greater
+    * Bills Division
+    * Breaking the records
+    * Cavity Map
+    * Chocolate Feast
+    * Circular Array Rotation
+    * Climbing the leaderboard
+    * Counting Valleys
+    * Cut the Sticks
+    * Day of the Programmer
+    * Designer PDF
+    * Divisible Sum of pairs
+    * Drawing book
+    * Electronic Shop
+    * Encryption
+    * Equality in a array
+    * Fair Rations
+    * Find Digits
+    * Flatland space station
+    * Forming Magic Square
+    * Grading Students
+    * Halloween Sale 
+    * Hurdle Race
+    * Jumping on the clouds Revisited
+    * Jumping on the clouds
+    * Library Fine
+    * Lisa WorkBook
+    * Migratory Birds
+    * Minimum Distance
+    * Modified Kaprekar numbers
+    * Non Divisible Subset
+    * Number line jumps
+    * Organization container of balls
+    * Picking numbers
+    * Queen's Attack
+    * Repeated String
+    * Sales by Match
+    * Save the Prisoner
+    * Sequence Equation
+    * Service Lane
+    * Sherlock and squares
+    * Subarray Division
+    * Taum and Bday
+    * The time in words
+    * Utopian Tree
+    * Append and Delete
+    * Cats and a Mouse
+    * Extra Long Factorial
